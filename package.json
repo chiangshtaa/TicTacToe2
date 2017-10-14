@@ -1,0 +1,14 @@
+{
+  "name": "Tictactoe",
+  "version": "1.0.0",
+  "description": "Command Line TicTacToe game",
+  "main": "ticTacToe.js",
+  "scripts": {
+    "start": "node ticTacToe.js"
+  },
+  "author": "Michael Chiang",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
